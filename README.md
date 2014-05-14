@@ -3,21 +3,8 @@ Github Profiles
 experimenting with APIs
 ---
 
-I pair programmed with [Emma Williams], a fellow aspiring developer, to learn how to use APIs.
+This is a cloned repository from my teacher, [Alex].
+The Mustache, CSS and HTML files have been added on to my main project called [api_interaction].
 
-This is a simple project that allows a user to add and view different github profiles.
-
-*jQuery*, *JSON*, *Mustache*, *Ajax* and *Javascript* are new-ish technologies that we hope, through this project, to become more familiar with.
-
-**Tech**
-* HTML5
-* CSS
-* Sinatra
-* Ruby
-* Javascript
-* Mustache
-* JSON
-* Ajax
-* jQuery
-
-[Emma Williams]: https://github.com/Em01
+[Alex]: https://github.com/alexmakers
+[api_interaction]:https://github.com/loulai/api_interaction
