@@ -19,3 +19,5 @@ This is a simple project that allows a user to add and view different github pro
 * JSON
 * Ajax
 * jQuery
+
+[Emma Williams]: https://github.com/Em01
